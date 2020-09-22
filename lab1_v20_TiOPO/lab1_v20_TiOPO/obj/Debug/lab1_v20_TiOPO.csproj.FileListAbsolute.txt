@@ -1,0 +1,13 @@
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.exe.config
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.exe
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.pdb
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.csprojAssemblyReference.cache
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.csproj.CoreCompileInputs.cache
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.exe
+C:\Users\student-09-425\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.pdb
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.exe.config
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.exe
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Debug\lab1_v20_TiOPO.pdb
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.csprojAssemblyReference.cache
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.exe
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Debug\lab1_v20_TiOPO.pdb

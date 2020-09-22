@@ -1,0 +1,6 @@
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Release\lab1_v20_TiOPO.exe.config
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Release\lab1_v20_TiOPO.exe
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\bin\Release\lab1_v20_TiOPO.pdb
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Release\lab1_v20_TiOPO.csprojAssemblyReference.cache
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Release\lab1_v20_TiOPO.exe
+C:\Users\Iliya\source\repos\lab1_v20_TiOPO\lab1_v20_TiOPO\obj\Release\lab1_v20_TiOPO.pdb
