@@ -1,0 +1,6 @@
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\bin\Debug\ChislGen1.exe.config
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\bin\Debug\ChislGen1.exe
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\bin\Debug\ChislGen1.pdb
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\obj\Debug\ChislGen1.csprojAssemblyReference.cache
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\obj\Debug\ChislGen1.exe
+C:\Users\Iliya\source\repos\Lab5_TiOPO\ChislGen1\obj\Debug\ChislGen1.pdb

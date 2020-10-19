@@ -1,0 +1,19 @@
+*** Input matrix ***
+124 271 107 115 666 
+100 111 540 384 218 
+180 365 23 191 255 
+-124 783 374 366 772 
+872 672 377 561 707 
+*** Average for each column ***
+Avrg for column 1  230,400
+Avrg for column 2  440,400
+Avrg for column 3  284,200
+Avrg for column 4  323,400
+Avrg for column 5  523,600
+
+*** Modifed matrix ***
+m  m  m  m  L  
+m  m  L  L  m  
+m  m  m  m  m  
+m  L  L  L  L  
+L  L  L  L  L  
