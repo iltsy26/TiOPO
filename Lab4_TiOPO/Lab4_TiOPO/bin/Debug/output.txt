@@ -1,0 +1,3 @@
+max elem under 0 = -17,000000
+min elem over 0 = 0,250000
+-16400 10001 
