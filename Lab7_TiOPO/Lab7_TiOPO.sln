@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_TiOPO", "Lab7_TiOPO\Lab7_TiOPO.csproj", "{FCDF810D-AE0F-44AC-B915-1D5F66A62A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDF810D-AE0F-44AC-B915-1D5F66A62A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDF810D-AE0F-44AC-B915-1D5F66A62A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDF810D-AE0F-44AC-B915-1D5F66A62A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDF810D-AE0F-44AC-B915-1D5F66A62A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3400167E-ED11-4979-9755-9289B56DAD08}
+	EndGlobalSection
+EndGlobal

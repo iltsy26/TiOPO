@@ -1,0 +1,5 @@
+C:\Users\Iliya\source\repos\Lab7_TiOPO\Lab7_TiOPO\bin\Release\Lab7_TiOPO.exe.config
+C:\Users\Iliya\source\repos\Lab7_TiOPO\Lab7_TiOPO\bin\Release\Lab7_TiOPO.exe
+C:\Users\Iliya\source\repos\Lab7_TiOPO\Lab7_TiOPO\bin\Release\Lab7_TiOPO.pdb
+C:\Users\Iliya\source\repos\Lab7_TiOPO\Lab7_TiOPO\obj\Release\Lab7_TiOPO.exe
+C:\Users\Iliya\source\repos\Lab7_TiOPO\Lab7_TiOPO\obj\Release\Lab7_TiOPO.pdb
