@@ -1,0 +1,6 @@
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\bin\Debug\Lab10_TiOPO.exe.config
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\bin\Debug\Lab10_TiOPO.exe
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\bin\Debug\Lab10_TiOPO.pdb
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\obj\Debug\Lab10_TiOPO.csprojAssemblyReference.cache
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\obj\Debug\Lab10_TiOPO.exe
+C:\Users\Iliya\source\repos\Lab10_TiOPO\Lab10_TiOPO\obj\Debug\Lab10_TiOPO.pdb
